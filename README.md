@@ -1,6 +1,6 @@
 # MVCCRUDPyReact
 
-Aplicación full-stack basada en Flask para el backend y ReactJS para el frontend, que implementa operaciones CRUD utilizando el patrón de diseño MVC. Permite gestionar productos a través de una API REST, con persistencia en MongoDB.
+Aplicación full-stack basada en Flask para el backend y ReactJS para el frontend, que implementa operaciones CRUD utilizando el patrón de diseño MVC. Permite gestionar productos a través de una API REST, con persistencia  de datos en MongoDB.
 
 ---
 
